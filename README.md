@@ -3,7 +3,6 @@
 # PyGame
 
 <div align="center">
-    <img alt="date created" src="https://badges.pufler.dev/created/Carol42/rea-pygame?style=plastic&color=3776AB">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/rea-pygame?color=181717&logo=github&style=plastic&logoColor=181717">
      <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Carol42/rea-pygame?color=181717&style=plastic">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/rea-pygame?color=%23F7DF1E&logo=javascript&style=plastic">
@@ -16,7 +15,7 @@
     <summary>Sumário</summary>
     <ol>
         <li><a href="#pushpin-sobre">Sobre</a></li>
-        <li><a href="#hammer_and_wrench-funcionalidades">Funcionalidades</a></li>
+        <li><a href="#wrench-funcionalidades">Funcionalidades</a></li>
         <li><a href="#hammer_and_wrench-tecnologias-e-recursos-utilizados">Tecnologias e recursos utilizados</a></li>
         <li><a href="#computer-como-baixar-e-rodar-o-projeto">Como baixar e rodar o projeto</a>
             <ul>
@@ -28,6 +27,8 @@
 </details>
 
 ## :pushpin: Sobre
+
+## :wrench: Funcionalidades
 
 ## :hammer_and_wrench: Tecnologias e Recursos Utilizados
 
